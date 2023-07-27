@@ -1,6 +1,5 @@
 
-</style>
-</head>
+
 <body>
 
 <h1>欢迎</h1>
@@ -16,5 +15,4 @@
 	<a href="https://xybox.lanzoub.com/iMrDn13lpgob">
     <button>点击下载minebox(相当于多玩我的世界盒子)</button>
 </a>
-</body>
-</html>
+
