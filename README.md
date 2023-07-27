@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @sdddddc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<style>
+/*--预设--*/ 
+body { padding:0px;margin: 0px; } 
+#lyrow, #lyrow input, #lyrow textarea { font-size:12px;font-family: 'Microsoft YaHei', '微软雅黑', MicrosoftJhengHei, '华文细黑', STHeiti, MingLiu; } 
+#lyrow { height:100vh;width: 100vw; } 
+#lyrow div { min-height: 18px;  } 
+#lyrow input, #lyrow textarea { border:rgb(235, 235, 235) 1px solid;border-radius: 3px;padding: 5px 8px;outline: 0; } 
+#lyrow input:hover, #lyrow textarea:hover { border: 1px solid #6bc1f2; } 
+/*--编辑--*/ 
 
-<!---
-sdddddc/sdddddc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</style>
+<!--下载font-awesome.css图标包-->
+<!--https://www.58html.com/html/template/font-awesome.zip-->
+<link rel="stylesheet" href="https://www.58html.com/gui/css/font-awesome/css/font-awesome.css">
+<div id="lyrow">
+
+        
+    <a  href="https://space.bilibili.com/3493126708660427?spm_id_from=333.788.0.0" target="_blank">我的主页</a>
+</div>
