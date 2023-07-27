@@ -1,50 +1,20 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<html>
-<head>
-	<meta charset="utf-8">
-	<title>html5贪吃蛇小游戏</title>
-	<script type="text/javascript" src="贪吃蛇.js"></script>
 
-	<script>
-
-	</script>
+</style>
 </head>
 <body>
-	<h1>html5贪吃蛇小游戏</h1>
-	<div align="left" class="a">
-		游戏规则：<br>
-		1.初始分数为=0、初始速度为1！<br>
-		2.操作蛇移动，使蛇可以吃到红色的食物!<br>
-		3.每当我的分数每次达到100分时，当前速度就会提高一个等级！<br>
-		4.最高速度为10.相信能力强的人可以达到最高速度！<br>
-		5.当蛇的碰到墙体或者自己的身子的时候，会宣布游戏失败！<br>
-	</div>
-	<style>
-body{
-	text-align: center;
-	background-color: aqua;
-}
-#snake{
-	margin-top: 20px;
-}
-.a{
-	margin-top: 50px;
-	margin-left: 680px;
-	width: 600px;
-	font-size: 20px;
- 
-}
 
-	</style>
-	<canvas id="snake" width="" height=""></canvas>
+<h1>欢迎</h1>
+<p>欢迎来到我的网站</p>
+<p>下载我的世界工具箱</p>
+<p>电脑工具箱</p>
 
-	<h3 id="score">我的得分：0</h3>
-	<h3 id="speed">当前速度：1</h3>
-
-	<script>
-	var snake = new Snake("snake","score","speed",36,36);
-		snake.init();
-
-	</script>
+<a href="https://github.com/jsms2/jsmhToolChest/releases/download/5.0B18/jsmhToolChest.5.0B18.exe">
+    <button>点击下载jsmh工具箱</button>
+	<a href="http://www.52re.fun/Re-ToolBox.exe">
+    <button>点击下载re工具箱</button>
+	<p>手机辅助</p>
+	<a href="https://xybox.lanzoub.com/iMrDn13lpgob">
+    <button>点击下载minebox(相当于多玩我的世界盒子)</button>
+</a>
 </body>
+</html>
