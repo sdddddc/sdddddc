@@ -17,7 +17,7 @@ body { padding:0px;margin: 0px; }
 <div id="lyrow">
 
         
-    <h1 class="a">hms我的世界工具箱下载</h1>
+    <h1 class="a">新MCBB我的世界工具箱下载</h1>
     <span ></span>
-    <a class="b" href="file:///C:/Users/Lenovo/Desktop/.minecraft.zip" target="_blank">游戏文件下载</a>
+    <a class="b" target="_blank" href="https://www.aliyundrive.com/s/BXLbYwTVUci">下载</a>
 </div>
